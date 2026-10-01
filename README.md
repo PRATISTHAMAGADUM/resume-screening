@@ -218,7 +218,7 @@ Resume Dataset containing multiple job categories:
 
 # Author
 
-Satyam Savarna
+Pratiksha Magadum
 
 ---
 
